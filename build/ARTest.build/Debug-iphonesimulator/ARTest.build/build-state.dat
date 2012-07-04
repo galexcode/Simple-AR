@@ -1,0 +1,1460 @@
+TARTest
+v7
+r3
+t316088739.327654
+cCheck dependencies
+cProcessInfoPlistFile /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/Info.plist ARTest-Info.plist
+cCompileXIB /Users/seb/Documents/xcode/AmnestyAR/MainWindow.xib
+cCompileXIB /Users/seb/Documents/xcode/AmnestyAR/ARTestViewController.xib
+cCpResource build/Debug-iphonesimulator/AmnestyAR.app/scanbutton.png scanbutton.png
+cCpResource build/Debug-iphonesimulator/AmnestyAR.app/bulle_blanc.png bulle_blanc.png
+cCpResource build/Debug-iphonesimulator/AmnestyAR.app/test.xml test.xml
+cCpResource build/Debug-iphonesimulator/AmnestyAR.app/amnesty_black_button.png amnesty_black_button.png
+cCpResource build/Debug-iphonesimulator/AmnestyAR.app/background-amnesty.png background-amnesty.png
+cCpResource build/Debug-iphonesimulator/AmnestyAR.app/buille_jaune.png buille_jaune.png
+cCpResource build/Debug-iphonesimulator/AmnestyAR.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/AmnestyAR.app/icone.png icone.png
+cCpResource build/Debug-iphonesimulator/AmnestyAR.app/bulle_noir.png bulle_noir.png
+cCopyStringsFile /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCopyStringsFile /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCopyStringsFile /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/fr.lproj/Localizable.strings fr.lproj/Localizable.strings
+cCopyStringsFile /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/fr.lproj/Localizable.strings fr.lproj/Localizable.strings
+cCopyStringsFile /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/nl.lproj/Localizable.strings nl.lproj/Localizable.strings
+cCopyStringsFile /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/nl.lproj/Localizable.strings nl.lproj/Localizable.strings
+cCpResource "build/Debug-iphonesimulator/AmnestyAR.app/TradeGotCond Bitmapped Fonts" "TradeGotCond Bitmapped Fonts"
+cCpResource build/Debug-iphonesimulator/AmnestyAR.app/TradeGotBolConTwe TradeGotBolConTwe
+cCpResource build/Debug-iphonesimulator/AmnestyAR.app/TradeGotBolConTweObl TradeGotBolConTweObl
+cCpResource build/Debug-iphonesimulator/AmnestyAR.app/TradeGotConEig TradeGotConEig
+cCpResource build/Debug-iphonesimulator/AmnestyAR.app/TradeGotConEigObl TradeGotConEigObl
+cCompileXIB /Users/seb/Documents/xcode/AmnestyAR/en.lproj/infoView.xib
+cCompileXIB /Users/seb/Documents/xcode/AmnestyAR/fr.lproj/infoView.xib
+cCompileXIB /Users/seb/Documents/xcode/AmnestyAR/nl.lproj/infoView.xib
+cProcessPCH /var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-gzgyklstgzsubgecrzdbrhgadahn/ARTest_Prefix.pch.gch ARTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FF1000000000006B7E0
+t1282158577
+s440288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C6C2FEA00000000000001D0
+t1282158570
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C301100000000000002FE
+t1282158609
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C303B000000000016DD50
+t1282158651
+s1498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C5A505200000000000000C4
+t1280987218
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C5A50EF0000000000154E50
+t1280987375
+s1396304
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/zlib.h
+c000000004C5A494E00000000000102A5
+t1280985422
+s66213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libz.dylib
+c000000004C5A495000000000000123E0
+t1280985424
+s74720
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC127DD00000000000001D0
+t1287727069
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/zlib.h
+c000000004CC109BF00000000000102A5
+t1287719359
+s66213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libz.dylib
+c000000004CC109C300000000000123B0
+t1287719363
+s74672
+
+N/Users/seb/Documents/xcode/ARTest/ARTestViewController.xib
+c000000004CA5EF7B0000000000001A41
+t1285943163
+s6721
+
+N/Users/seb/Documents/xcode/ARTest/ARTest_Prefix.pch
+c000000004CA5EF7B00000000000000B5
+t1285943163
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/seb/Documents/xcode/ARTest/Classes/ARCoordinate.h
+c000000004B65B4D0000000000000057B
+t1264956624
+s1403
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/seb/Documents/xcode/ARTest/Classes/ARCoordinate.m
+c000000004B65B4D0000000000000079E
+t1264956624
+s1950
+i"ARCoordinate.h"
+
+N/Users/seb/Documents/xcode/ARTest/Classes/ARGeoCoordinate.h
+c000000004B65B4D000000000000002EB
+t1264956624
+s747
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i"ARCoordinate.h"
+
+N/Users/seb/Documents/xcode/ARTest/Classes/ARGeoCoordinate.m
+c000000004CA1BB480000000000000895
+t1285667656
+s2197
+i"ARGeoCoordinate.h"
+
+N/Users/seb/Documents/xcode/ARTest/Classes/ARTestAppDelegate.h
+c000000004CA5EF7B00000000000001DD
+t1285943163
+s477
+i<UIKit/UIKit.h>
+
+N/Users/seb/Documents/xcode/ARTest/Classes/ARTestAppDelegate.m
+c000000004CA5EF7B0000000000000A8A
+t1285943163
+s2698
+i"ARTestAppDelegate.h"
+i"ARTestViewController.h"
+
+N/Users/seb/Documents/xcode/ARTest/Classes/ARTestViewController.h
+c000000004CA75A270000000000000253
+t1286036007
+s595
+i<UIKit/UIKit.h>
+i"OverlayView.h"
+i"GEOLocations.h"
+i"CoordinateView.h"
+i"ARViewButton.h"
+
+N/Users/seb/Documents/xcode/ARTest/Classes/ARTestViewController.m
+c000000004CA75A4A0000000000000B1E
+t1286036042
+s2846
+i"ARTestViewController.h"
+
+N/Users/seb/Documents/xcode/ARTest/Classes/ARViewButton.h
+c000000004CA355C90000000000000211
+t1285772745
+s529
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"CoordinateView.h"
+i"ARCoordinate.h"
+
+N/Users/seb/Documents/xcode/ARTest/Classes/ARViewButton.m
+c000000004CA47D1D00000000000005CE
+t1285848349
+s1486
+i"ARViewButton.h"
+
+N/Users/seb/Documents/xcode/ARTest/Classes/AugmentedRealityController.h
+c000000004CA486300000000000000A1B
+t1285850672
+s2587
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i<UIKit/UIKit.h>
+i"ARViewButton.h"
+i"ViewSurface.h"
+
+N/Users/seb/Documents/xcode/ARTest/Classes/AugmentedRealityController.m
+c000000004CA49FE90000000000003E92
+t1285857257
+s16018
+i"AugmentedRealityController.h"
+i"ARCoordinate.h"
+i"ARGeoCoordinate.h"
+i<MapKit/MapKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/seb/Documents/xcode/ARTest/Classes/CoordinateView.h
+c000000004CA2FA430000000000000155
+t1285749315
+s341
+i<UIKit/UIKit.h>
+
+N/Users/seb/Documents/xcode/ARTest/Classes/CoordinateView.m
+c000000004CA32D9D0000000000000C86
+t1285762461
+s3206
+i"CoordinateView.h"
+i"ARCoordinate.h"
+
+N/Users/seb/Documents/xcode/ARTest/Classes/GEOLocations.h
+c000000004C9B40D400000000000001A9
+t1285243092
+s425
+i<Foundation/Foundation.h>
+i"TBXML.h"
+
+N/Users/seb/Documents/xcode/ARTest/Classes/GEOLocations.m
+c000000004CA1BB3A00000000000005D1
+t1285667642
+s1489
+i"GEOLocations.h"
+i"ARGeoCoordinate.h"
+i<MapKit/MapKit.h>
+i<UIKit/UIKit.h>
+
+N/Users/seb/Documents/xcode/ARTest/Classes/NSDataAdditions.h
+c000000004BF3E1060000000000000A67
+t1274274054
+s2663
+i<Foundation/Foundation.h>
+
+N/Users/seb/Documents/xcode/ARTest/Classes/NSDataAdditions.m
+c000000004BF3E10600000000000025EE
+t1274274054
+s9710
+i"NSDataAdditions.h"
+i<zlib.h>
+
+N/Users/seb/Documents/xcode/ARTest/Classes/OverlayView.h
+c000000004CA650910000000000000B38
+t1285968017
+s2872
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i<QuartzCore/QuartzCore.h>
+i"ScanButton.h"
+i"ARViewButton.h"
+i"ARCoordinate.h"
+i"ARGeoCoordinate.h"
+
+N/Users/seb/Documents/xcode/ARTest/Classes/OverlayView.m
+c000000004CA66013000000000000377F
+t1285971987
+s14207
+i<UIKit/UIKit.h>
+i"OverlayView.h"
+
+N/Users/seb/Documents/xcode/ARTest/Classes/ScanButton.h
+c000000004B83A4DE00000000000000F3
+t1266918622
+s243
+i<Foundation/Foundation.h>
+
+N/Users/seb/Documents/xcode/ARTest/Classes/ScanButton.m
+c000000004B83A4DE00000000000002E7
+t1266918622
+s743
+i"ScanButton.h"
+
+N/Users/seb/Documents/xcode/ARTest/Classes/TBXML.h
+c000000004BF3E10600000000000012D1
+t1274274054
+s4817
+
+N/Users/seb/Documents/xcode/ARTest/Classes/TBXML.m
+c000000004BF3E10600000000000046DA
+t1274274054
+s18138
+i"TBXML.h"
+i"NSDataAdditions.h"
+
+N/Users/seb/Documents/xcode/ARTest/Classes/ViewSurface.h
+c000000004CA34EC6000000000000012D
+t1285770950
+s301
+i<UIKit/UIKit.h>
+i"ARViewButton.h"
+
+N/Users/seb/Documents/xcode/ARTest/Classes/ViewSurface.m
+c000000004CA48634000000000000045D
+t1285850676
+s1117
+i"ViewSurface.h"
+
+N/Users/seb/Documents/xcode/ARTest/MainWindow.xib
+c000000004CA5EF7B0000000000004E1D
+t1285943163
+s19997
+
+N/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARCoordinate.o
+t1286036015
+s18136
+
+N/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARGeoCoordinate.o
+t1286036015
+s14408
+
+N/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARTest.LinkFileList
+c000000004CA75A2700000000000006CA
+t1286036007
+s1738
+
+N/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARTestAppDelegate.o
+t1286036014
+s50708
+
+N/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARTestViewController.o
+t1286036044
+s42436
+
+N/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARViewButton.o
+t1286036014
+s41652
+
+N/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/AugmentedRealityController.o
+t1286036015
+s102596
+
+N/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/CoordinateView.o
+t1286036015
+s40304
+
+N/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/GEOLocations.o
+t1286036015
+s13404
+
+N/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/NSDataAdditions.o
+t1286036015
+s17540
+
+N/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/OverlayView.o
+t1286036014
+s93676
+
+N/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ScanButton.o
+t1286036014
+s36512
+
+N/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/TBXML.o
+t1286036015
+s37172
+
+N/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ViewSurface.o
+t1286036015
+s38548
+
+N/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/main.o
+t1286036014
+s6292
+
+N/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app
+t1286036044
+s272
+
+N/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app.dSYM
+t1286036044
+s102
+
+N/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/ARTest
+t1286036044
+s124116
+
+N/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/ARTestViewController.nib
+t1286036011
+s1269
+
+N/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/Info.plist
+t1286036007
+s587
+
+N/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/MainWindow.nib
+t1286036011
+s1679
+
+N/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/PkgInfo
+t1286036007
+s8
+
+N/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/scanbutton.png
+t1286036011
+s818
+
+N/Users/seb/Documents/xcode/ARTest/main.m
+c000000004CA5EF7B000000000000016C
+t1285943163
+s364
+i<UIKit/UIKit.h>
+
+N/Users/seb/Documents/xcode/ARTest/scanbutton.png
+c000000004B83A4DE0000000000000332
+t1266918622
+s818
+
+N/Users/seb/Documents/xcode/AmnestyAR/ARTestViewController.xib
+c000000004CA5EF7B0000000000001A41
+t1285943163
+s6721
+
+N/Users/seb/Documents/xcode/AmnestyAR/ARTest_Prefix.pch
+c000000004CA5EF7B00000000000000B5
+t1285943163
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/ARCoordinate.h
+c000000004CAC41A8000000000000057D
+t1286357416
+s1405
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/ARCoordinate.m
+c000000004CAC41C000000000000007C0
+t1286357440
+s1984
+i"ARCoordinate.h"
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/ARGeoCoordinate.h
+c000000004B65B4D000000000000002EB
+t1264956624
+s747
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i"ARCoordinate.h"
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/ARGeoCoordinate.m
+c000000004CA1BB480000000000000895
+t1285667656
+s2197
+i"ARGeoCoordinate.h"
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/ARTestAppDelegate.h
+c000000004CA5EF7B00000000000001DD
+t1285943163
+s477
+i<UIKit/UIKit.h>
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/ARTestAppDelegate.m
+c000000004CAC70500000000000000BE1
+t1286369360
+s3041
+i"ARTestAppDelegate.h"
+i"ARTestViewController.h"
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/ARTestViewController.h
+c000000004CAC73590000000000000263
+t1286370137
+s611
+i<UIKit/UIKit.h>
+i"OverlayView.h"
+i"GEOLocations.h"
+i"CoordinateView.h"
+i"ARViewButton.h"
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/ARTestViewController.m
+c000000004CC546F70000000000000A99
+t1287997175
+s2713
+i"ARTestViewController.h"
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/ARViewButton.h
+c000000004CAC49B20000000000000294
+t1286359474
+s660
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"CoordinateView.h"
+i"ARCoordinate.h"
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/ARViewButton.m
+c000000004CDD4D000000000000000ABC
+t1289571584
+s2748
+i"ARViewButton.h"
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/CoordinateView.h
+c000000004CA2FA430000000000000155
+t1285749315
+s341
+i<UIKit/UIKit.h>
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/CoordinateView.m
+c000000004CA32D9D0000000000000C86
+t1285762461
+s3206
+i"CoordinateView.h"
+i"ARCoordinate.h"
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/GEOLocations.h
+c000000004CC589BC00000000000001A9
+t1288014268
+s425
+i<Foundation/Foundation.h>
+i"TBXML.h"
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/GEOLocations.m
+c000000004CC588AD00000000000008E4
+t1288013997
+s2276
+i"GEOLocations.h"
+i"ARGeoCoordinate.h"
+i<MapKit/MapKit.h>
+i<UIKit/UIKit.h>
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/InfoView.h
+c000000004CC826C0000000000000018F
+t1288185536
+s399
+i<Foundation/Foundation.h>
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/InfoView.m
+c000000004CDD4CFD0000000000000261
+t1289571581
+s609
+i"InfoView.h"
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/NSDataAdditions.h
+c000000004BF3E1060000000000000A67
+t1274274054
+s2663
+i<Foundation/Foundation.h>
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/NSDataAdditions.m
+c000000004BF3E10600000000000025EE
+t1274274054
+s9710
+i"NSDataAdditions.h"
+i<zlib.h>
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/OverlayView.h
+c000000004CB317290000000000000C33
+t1286805289
+s3123
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i<QuartzCore/QuartzCore.h>
+i"ARViewButton.h"
+i"ARCoordinate.h"
+i"ARGeoCoordinate.h"
+i"InfoView.h"
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/OverlayView.m
+c000000004CC589A10000000000004081
+t1288014241
+s16513
+i"OverlayView.h"
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/TBXML.h
+c000000004BF3E10600000000000012D1
+t1274274054
+s4817
+
+N/Users/seb/Documents/xcode/AmnestyAR/Classes/TBXML.m
+c000000004BF3E10600000000000046DA
+t1274274054
+s18138
+i"TBXML.h"
+i"NSDataAdditions.h"
+
+N/Users/seb/Documents/xcode/AmnestyAR/Default.png
+c000000004CB420C50000000000007254
+t1286873285
+s29268
+
+N/Users/seb/Documents/xcode/AmnestyAR/MainWindow.xib
+c000000004CA5EF7B0000000000004E1D
+t1285943163
+s19997
+
+N/Users/seb/Documents/xcode/AmnestyAR/TradeGotBolConTwe
+c00000000258CE8730000000000000000
+t629991539
+s0
+
+N/Users/seb/Documents/xcode/AmnestyAR/TradeGotBolConTweObl
+c00000000258CE8620000000000000000
+t629991522
+s0
+
+N/Users/seb/Documents/xcode/AmnestyAR/TradeGotConEig
+c00000000258CE86B0000000000000000
+t629991531
+s0
+
+N/Users/seb/Documents/xcode/AmnestyAR/TradeGotConEigObl
+c00000000258CE8580000000000000000
+t629991512
+s0
+
+N/Users/seb/Documents/xcode/AmnestyAR/TradeGotCond Bitmapped Fonts
+c0000000028AB8B340000000000000000
+t682330932
+s0
+
+N/Users/seb/Documents/xcode/AmnestyAR/amnesty_black_button.png
+c000000004CAB230A0000000000000B35
+t1286284042
+s2869
+
+N/Users/seb/Documents/xcode/AmnestyAR/background-amnesty.png
+c000000004CAB206400000000000077E8
+t1286283364
+s30696
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARCoordinate.o
+t1286036015
+s18136
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARGeoCoordinate.o
+t1286036015
+s14408
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARTestAppDelegate.o
+t1286036014
+s50708
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARTestViewController.o
+t1286036044
+s42436
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARViewButton.o
+t1286036014
+s41652
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/AmnestyAR.LinkFileList
+c000000004D26EA1F00000000000005E9
+t1294395935
+s1513
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/CoordinateView.o
+t1286036015
+s40304
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/GEOLocations.o
+t1286036015
+s13404
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/InfoView.o
+t2
+s0
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/NSDataAdditions.o
+t1286036015
+s17540
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/OverlayView.o
+t1286036014
+s93676
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/TBXML.o
+t1286036015
+s37172
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/main.o
+t1286036014
+s6292
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app
+t1294395937
+s782
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app.dSYM
+t2
+s0
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/ARTestViewController.nib
+t1294395936
+s795
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/AmnestyAR
+t2
+s0
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/Default.png
+t1294395936
+s29268
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/Info.plist
+t1294395935
+s776
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/MainWindow.nib
+t1294395936
+s1121
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/PkgInfo
+t1294395935
+s8
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/TradeGotBolConTwe
+t1294395937
+s0
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/TradeGotBolConTweObl
+t1294395937
+s0
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/TradeGotConEig
+t1294395937
+s0
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/TradeGotConEigObl
+t1294395937
+s0
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/TradeGotCond Bitmapped Fonts
+t1294395937
+s0
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/amnesty_black_button.png
+t1294395936
+s2869
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/background-amnesty.png
+t1294395936
+s30696
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/buille_jaune.png
+t1294395936
+s596
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/bulle_blanc.png
+t1294395936
+s4466
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/bulle_noir.png
+t1294395936
+s1422
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/en.lproj/Localizable.strings
+t1294395937
+s378
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/en.lproj/infoView.nib
+t1294395937
+s2669
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/fr.lproj/Localizable.strings
+t1294395937
+s363
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/fr.lproj/infoView.nib
+t1294395937
+s2726
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/icone.png
+t1294395936
+s4678
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/nl.lproj/Localizable.strings
+t1294395937
+s326
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/nl.lproj/infoView.nib
+t1294395938
+s2751
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/scanbutton.png
+t1294395936
+s818
+
+N/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/test.xml
+t1294395936
+s11672
+
+N/Users/seb/Documents/xcode/AmnestyAR/buille_jaune.png
+c000000004CAB27F10000000000000254
+t1286285297
+s596
+
+N/Users/seb/Documents/xcode/AmnestyAR/bulle_blanc.png
+c000000004CA342360000000000001172
+t1285767734
+s4466
+
+N/Users/seb/Documents/xcode/AmnestyAR/bulle_noir.png
+c000000004CC54518000000000000058E
+t1287996696
+s1422
+
+N/Users/seb/Documents/xcode/AmnestyAR/en.lproj/Localizable.strings
+c000000004CC590F000000000000001DB
+t1288016112
+s475
+
+N/Users/seb/Documents/xcode/AmnestyAR/en.lproj/infoView.xib
+c000000004CDD4BC600000000000064CD
+t1289571270
+s25805
+
+N/Users/seb/Documents/xcode/AmnestyAR/fr.lproj/Localizable.strings
+c000000004CC590AD00000000000001E0
+t1288016045
+s480
+
+N/Users/seb/Documents/xcode/AmnestyAR/fr.lproj/infoView.xib
+c000000004CDD4C510000000000006507
+t1289571409
+s25863
+
+N/Users/seb/Documents/xcode/AmnestyAR/icone.png
+c000000004CB421790000000000001246
+t1286873465
+s4678
+
+N/Users/seb/Documents/xcode/AmnestyAR/main.m
+c000000004CA5EF7B000000000000016C
+t1285943163
+s364
+i<UIKit/UIKit.h>
+
+N/Users/seb/Documents/xcode/AmnestyAR/nl.lproj/Localizable.strings
+c000000004CC5914000000000000001A6
+t1288016192
+s422
+
+N/Users/seb/Documents/xcode/AmnestyAR/nl.lproj/infoView.xib
+c000000004CDD4C120000000000006586
+t1289571346
+s25990
+
+N/Users/seb/Documents/xcode/AmnestyAR/scanbutton.png
+c000000004B83A4DE0000000000000332
+t1266918622
+s818
+
+N/Users/seb/Documents/xcode/AmnestyAR/test.xml
+c000000004CB41B870000000000002D98
+t1286871943
+s11672
+
+N/var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-cwzbhurgfecceccvusbfawfixznf/ARTest_Prefix.pch.gch
+t1286036013
+s15211536
+
+N/var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-gzgyklstgzsubgecrzdbrhgadahn/ARTest_Prefix.pch.gch
+t2
+s0
+
+NARTest-Info.plist
+c000000004CC82C0E0000000000000484
+t1288186894
+s1156
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316088735#316088735#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARCoordinate.o /Users/seb/Documents/xcode/ARTest/Classes/ARCoordinate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307728814.961388
+e307728815.085658
+r1
+xCompileC
+xbuild/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARCoordinate.o
+x/Users/seb/Documents/xcode/ARTest/Classes/ARCoordinate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/seb/Documents/xcode/ARTest/Classes/ARCoordinate.m307728814#307728815#0(0"0(0#0#56"/Users/seb/Documents/xcode/ARTest/Classes/ARCoordinate.m8600859200#1863"    cd /Users/seb/Documents/xcode/ARTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-generated-files.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-own-target-headers.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-all-target-headers.hmap -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-project-headers.hmap -F/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator -I/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/include -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources/i386 -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources -include /var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-cwzbhurgfecceccvusbfawfixznf/ARTest_Prefix.pch -c /Users/seb/Documents/xcode/ARTest/Classes/ARCoordinate.m -o /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARCoordinate.o0#
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARCoordinate.o /Users/seb/Documents/xcode/AmnestyAR/Classes/ARCoordinate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARGeoCoordinate.o /Users/seb/Documents/xcode/ARTest/Classes/ARGeoCoordinate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307728814.966969
+e307728815.085477
+r1
+xCompileC
+xbuild/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARGeoCoordinate.o
+x/Users/seb/Documents/xcode/ARTest/Classes/ARGeoCoordinate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/seb/Documents/xcode/ARTest/Classes/ARGeoCoordinate.m307728814#307728815#0(0"0(0#0#59"/Users/seb/Documents/xcode/ARTest/Classes/ARGeoCoordinate.m8605559616#1869"    cd /Users/seb/Documents/xcode/ARTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-generated-files.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-own-target-headers.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-all-target-headers.hmap -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-project-headers.hmap -F/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator -I/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/include -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources/i386 -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources -include /var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-cwzbhurgfecceccvusbfawfixznf/ARTest_Prefix.pch -c /Users/seb/Documents/xcode/ARTest/Classes/ARGeoCoordinate.m -o /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARGeoCoordinate.o0#
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARGeoCoordinate.o /Users/seb/Documents/xcode/AmnestyAR/Classes/ARGeoCoordinate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARTestAppDelegate.o /Users/seb/Documents/xcode/ARTest/Classes/ARTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307728814.258389
+e307728814.713246
+r1
+xCompileC
+xbuild/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARTestAppDelegate.o
+x/Users/seb/Documents/xcode/ARTest/Classes/ARTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/seb/Documents/xcode/ARTest/Classes/ARTestAppDelegate.m307728814#307728814#0(0"0(0#0#61"/Users/seb/Documents/xcode/ARTest/Classes/ARTestAppDelegate.m8605382368#1873"    cd /Users/seb/Documents/xcode/ARTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-generated-files.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-own-target-headers.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-all-target-headers.hmap -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-project-headers.hmap -F/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator -I/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/include -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources/i386 -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources -include /var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-cwzbhurgfecceccvusbfawfixznf/ARTest_Prefix.pch -c /Users/seb/Documents/xcode/ARTest/Classes/ARTestAppDelegate.m -o /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARTestAppDelegate.o0#
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARTestAppDelegate.o /Users/seb/Documents/xcode/AmnestyAR/Classes/ARTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARTestViewController.o /Users/seb/Documents/xcode/ARTest/Classes/ARTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307728844.003647
+e307728844.329732
+r1
+xCompileC
+xbuild/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARTestViewController.o
+x/Users/seb/Documents/xcode/ARTest/Classes/ARTestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/seb/Documents/xcode/ARTest/Classes/ARTestViewController.m307728844#307728844#0(0"0(0#0#64"/Users/seb/Documents/xcode/ARTest/Classes/ARTestViewController.m8606430656#1879"    cd /Users/seb/Documents/xcode/ARTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-generated-files.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-own-target-headers.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-all-target-headers.hmap -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-project-headers.hmap -F/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator -I/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/include -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources/i386 -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources -include /var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-cwzbhurgfecceccvusbfawfixznf/ARTest_Prefix.pch -c /Users/seb/Documents/xcode/ARTest/Classes/ARTestViewController.m -o /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARTestViewController.o0#
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARTestViewController.o /Users/seb/Documents/xcode/AmnestyAR/Classes/ARTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARViewButton.o /Users/seb/Documents/xcode/ARTest/Classes/ARViewButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307728814.841148
+e307728814.966870
+r1
+xCompileC
+xbuild/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARViewButton.o
+x/Users/seb/Documents/xcode/ARTest/Classes/ARViewButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/seb/Documents/xcode/ARTest/Classes/ARViewButton.m307728814#307728814#0(0"0(0#0#56"/Users/seb/Documents/xcode/ARTest/Classes/ARViewButton.m8605615776#1863"    cd /Users/seb/Documents/xcode/ARTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-generated-files.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-own-target-headers.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-all-target-headers.hmap -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-project-headers.hmap -F/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator -I/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/include -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources/i386 -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources -include /var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-cwzbhurgfecceccvusbfawfixznf/ARTest_Prefix.pch -c /Users/seb/Documents/xcode/ARTest/Classes/ARViewButton.m -o /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARViewButton.o0#
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARViewButton.o /Users/seb/Documents/xcode/AmnestyAR/Classes/ARViewButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/AugmentedRealityController.o /Users/seb/Documents/xcode/ARTest/Classes/AugmentedRealityController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307728815.085945
+e307728815.412159
+r1
+xCompileC
+xbuild/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/AugmentedRealityController.o
+x/Users/seb/Documents/xcode/ARTest/Classes/AugmentedRealityController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/seb/Documents/xcode/ARTest/Classes/AugmentedRealityController.m307728815#307728815#0(0"0(0#0#70"/Users/seb/Documents/xcode/ARTest/Classes/AugmentedRealityController.m8606452896#1891"    cd /Users/seb/Documents/xcode/ARTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-generated-files.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-own-target-headers.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-all-target-headers.hmap -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-project-headers.hmap -F/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator -I/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/include -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources/i386 -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources -include /var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-cwzbhurgfecceccvusbfawfixznf/ARTest_Prefix.pch -c /Users/seb/Documents/xcode/ARTest/Classes/AugmentedRealityController.m -o /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/AugmentedRealityController.o0#
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/CoordinateView.o /Users/seb/Documents/xcode/ARTest/Classes/CoordinateView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307728815.087431
+e307728815.225689
+r1
+xCompileC
+xbuild/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/CoordinateView.o
+x/Users/seb/Documents/xcode/ARTest/Classes/CoordinateView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/seb/Documents/xcode/ARTest/Classes/CoordinateView.m307728815#307728815#0(0"0(0#0#58"/Users/seb/Documents/xcode/ARTest/Classes/CoordinateView.m8606125792#1867"    cd /Users/seb/Documents/xcode/ARTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-generated-files.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-own-target-headers.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-all-target-headers.hmap -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-project-headers.hmap -F/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator -I/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/include -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources/i386 -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources -include /var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-cwzbhurgfecceccvusbfawfixznf/ARTest_Prefix.pch -c /Users/seb/Documents/xcode/ARTest/Classes/CoordinateView.m -o /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/CoordinateView.o0#
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/CoordinateView.o /Users/seb/Documents/xcode/AmnestyAR/Classes/CoordinateView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/GEOLocations.o /Users/seb/Documents/xcode/ARTest/Classes/GEOLocations.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307728815.225785
+e307728815.306807
+r1
+xCompileC
+xbuild/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/GEOLocations.o
+x/Users/seb/Documents/xcode/ARTest/Classes/GEOLocations.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/seb/Documents/xcode/ARTest/Classes/GEOLocations.m307728815#307728815#0(0"0(0#0#56"/Users/seb/Documents/xcode/ARTest/Classes/GEOLocations.m8604009664#1863"    cd /Users/seb/Documents/xcode/ARTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-generated-files.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-own-target-headers.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-all-target-headers.hmap -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-project-headers.hmap -F/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator -I/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/include -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources/i386 -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources -include /var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-cwzbhurgfecceccvusbfawfixznf/ARTest_Prefix.pch -c /Users/seb/Documents/xcode/ARTest/Classes/GEOLocations.m -o /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/GEOLocations.o0#
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/GEOLocations.o /Users/seb/Documents/xcode/AmnestyAR/Classes/GEOLocations.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/InfoView.o /Users/seb/Documents/xcode/AmnestyAR/Classes/InfoView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/NSDataAdditions.o /Users/seb/Documents/xcode/ARTest/Classes/NSDataAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307728815.306913
+e307728815.410544
+r1
+xCompileC
+xbuild/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/NSDataAdditions.o
+x/Users/seb/Documents/xcode/ARTest/Classes/NSDataAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/seb/Documents/xcode/ARTest/Classes/NSDataAdditions.m307728815#307728815#0(0"0(0#0#59"/Users/seb/Documents/xcode/ARTest/Classes/NSDataAdditions.m8605232288#1869"    cd /Users/seb/Documents/xcode/ARTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-generated-files.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-own-target-headers.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-all-target-headers.hmap -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-project-headers.hmap -F/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator -I/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/include -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources/i386 -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources -include /var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-cwzbhurgfecceccvusbfawfixznf/ARTest_Prefix.pch -c /Users/seb/Documents/xcode/ARTest/Classes/NSDataAdditions.m -o /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/NSDataAdditions.o0#
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/NSDataAdditions.o /Users/seb/Documents/xcode/AmnestyAR/Classes/NSDataAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/OverlayView.o /Users/seb/Documents/xcode/ARTest/Classes/OverlayView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307728814.713349
+e307728814.961123
+r1
+xCompileC
+xbuild/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/OverlayView.o
+x/Users/seb/Documents/xcode/ARTest/Classes/OverlayView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/seb/Documents/xcode/ARTest/Classes/OverlayView.m307728814#307728814#0(0"0(0#0#55"/Users/seb/Documents/xcode/ARTest/Classes/OverlayView.m8606180096#1861"    cd /Users/seb/Documents/xcode/ARTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-generated-files.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-own-target-headers.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-all-target-headers.hmap -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-project-headers.hmap -F/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator -I/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/include -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources/i386 -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources -include /var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-cwzbhurgfecceccvusbfawfixznf/ARTest_Prefix.pch -c /Users/seb/Documents/xcode/ARTest/Classes/OverlayView.m -o /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/OverlayView.o0#
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/OverlayView.o /Users/seb/Documents/xcode/AmnestyAR/Classes/OverlayView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ScanButton.o /Users/seb/Documents/xcode/ARTest/Classes/ScanButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307728814.758246
+e307728814.841045
+r1
+xCompileC
+xbuild/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ScanButton.o
+x/Users/seb/Documents/xcode/ARTest/Classes/ScanButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/seb/Documents/xcode/ARTest/Classes/ScanButton.m307728814#307728814#0(0"0(0#0#54"/Users/seb/Documents/xcode/ARTest/Classes/ScanButton.m8606462784#1859"    cd /Users/seb/Documents/xcode/ARTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-generated-files.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-own-target-headers.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-all-target-headers.hmap -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-project-headers.hmap -F/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator -I/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/include -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources/i386 -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources -include /var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-cwzbhurgfecceccvusbfawfixznf/ARTest_Prefix.pch -c /Users/seb/Documents/xcode/ARTest/Classes/ScanButton.m -o /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ScanButton.o0#
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/TBXML.o /Users/seb/Documents/xcode/ARTest/Classes/TBXML.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307728815.410648
+e307728815.547780
+r1
+xCompileC
+xbuild/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/TBXML.o
+x/Users/seb/Documents/xcode/ARTest/Classes/TBXML.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/seb/Documents/xcode/ARTest/Classes/TBXML.m307728815#307728815#0(0"0(0#0#49"/Users/seb/Documents/xcode/ARTest/Classes/TBXML.m8606210592#1849"    cd /Users/seb/Documents/xcode/ARTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-generated-files.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-own-target-headers.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-all-target-headers.hmap -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-project-headers.hmap -F/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator -I/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/include -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources/i386 -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources -include /var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-cwzbhurgfecceccvusbfawfixznf/ARTest_Prefix.pch -c /Users/seb/Documents/xcode/ARTest/Classes/TBXML.m -o /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/TBXML.o0#
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/TBXML.o /Users/seb/Documents/xcode/AmnestyAR/Classes/TBXML.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ViewSurface.o /Users/seb/Documents/xcode/ARTest/Classes/ViewSurface.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307728815.412243
+e307728815.514801
+r1
+xCompileC
+xbuild/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ViewSurface.o
+x/Users/seb/Documents/xcode/ARTest/Classes/ViewSurface.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/seb/Documents/xcode/ARTest/Classes/ViewSurface.m307728815#307728815#0(0"0(0#0#55"/Users/seb/Documents/xcode/ARTest/Classes/ViewSurface.m8605374944#1861"    cd /Users/seb/Documents/xcode/ARTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-generated-files.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-own-target-headers.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-all-target-headers.hmap -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-project-headers.hmap -F/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator -I/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/include -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources/i386 -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources -include /var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-cwzbhurgfecceccvusbfawfixznf/ARTest_Prefix.pch -c /Users/seb/Documents/xcode/ARTest/Classes/ViewSurface.m -o /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ViewSurface.o0#
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/main.o /Users/seb/Documents/xcode/ARTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307728814.256679
+e307728814.593982
+r1
+xCompileC
+xbuild/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/main.o
+x/Users/seb/Documents/xcode/ARTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/seb/Documents/xcode/ARTest/main.m307728814#307728814#0(0"0(0#0#40"/Users/seb/Documents/xcode/ARTest/main.m8606467424#1839"    cd /Users/seb/Documents/xcode/ARTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-generated-files.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-own-target-headers.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-all-target-headers.hmap -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-project-headers.hmap -F/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator -I/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/include -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources/i386 -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources -include /var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-cwzbhurgfecceccvusbfawfixznf/ARTest_Prefix.pch -c /Users/seb/Documents/xcode/ARTest/main.m -o /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/main.o0#
+
+CCompileC build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/main.o /Users/seb/Documents/xcode/AmnestyAR/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/seb/Documents/xcode/ARTest/ARTestViewController.xib
+s307728807.860960
+e307728811.415279
+r1
+xCompileXIB
+x/Users/seb/Documents/xcode/ARTest/ARTestViewController.xib
+lSLF07#2@35"CompileXIB ARTestViewController.xib307728807#307728811#0(0"0(0#0#58"/Users/seb/Documents/xcode/ARTest/ARTestViewController.xib8606471232#574"    cd /Users/seb/Documents/xcode/ARTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/ARTestViewController.nib /Users/seb/Documents/xcode/ARTest/ARTestViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/seb/Documents/xcode/ARTest/MainWindow.xib
+s307728807.785789
+e307728811.397998
+r1
+xCompileXIB
+x/Users/seb/Documents/xcode/ARTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib307728807#307728811#0(0"0(0#0#48"/Users/seb/Documents/xcode/ARTest/MainWindow.xib8604983552#554"    cd /Users/seb/Documents/xcode/ARTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/MainWindow.nib /Users/seb/Documents/xcode/ARTest/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/seb/Documents/xcode/AmnestyAR/ARTestViewController.xib
+s316088735.960675
+e316088736.498231
+r1
+xCompileXIB
+x/Users/seb/Documents/xcode/AmnestyAR/ARTestViewController.xib
+lSLF07#2@35"CompileXIB ARTestViewController.xib316088735#316088736#0(0"0(0#0#61"/Users/seb/Documents/xcode/AmnestyAR/ARTestViewController.xib8616362112#586"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/ARTestViewController.nib /Users/seb/Documents/xcode/AmnestyAR/ARTestViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/seb/Documents/xcode/AmnestyAR/MainWindow.xib
+s316088735.958726
+e316088736.498051
+r1
+xCompileXIB
+x/Users/seb/Documents/xcode/AmnestyAR/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib316088735#316088736#0(0"0(0#0#51"/Users/seb/Documents/xcode/AmnestyAR/MainWindow.xib8614802240#566"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/MainWindow.nib /Users/seb/Documents/xcode/AmnestyAR/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/seb/Documents/xcode/AmnestyAR/en.lproj/infoView.xib
+s316088737.128863
+e316088737.642511
+r1
+xCompileXIB
+x/Users/seb/Documents/xcode/AmnestyAR/en.lproj/infoView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@32"CompileXIB en.lproj/infoView.xib316088737#316088737#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#58"/Users/seb/Documents/xcode/AmnestyAR/en.lproj/infoView.xib8615252832#580"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/en.lproj/infoView.nib /Users/seb/Documents/xcode/AmnestyAR/en.lproj/infoView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/seb/Documents/xcode/AmnestyAR/fr.lproj/infoView.xib
+s316088737.150951
+e316088737.685846
+r1
+xCompileXIB
+x/Users/seb/Documents/xcode/AmnestyAR/fr.lproj/infoView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@32"CompileXIB fr.lproj/infoView.xib316088737#316088737#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#58"/Users/seb/Documents/xcode/AmnestyAR/fr.lproj/infoView.xib8614622208#580"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/fr.lproj/infoView.nib /Users/seb/Documents/xcode/AmnestyAR/fr.lproj/infoView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/seb/Documents/xcode/AmnestyAR/nl.lproj/infoView.xib
+s316088737.642684
+e316088738.106474
+r1
+xCompileXIB
+x/Users/seb/Documents/xcode/AmnestyAR/nl.lproj/infoView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@32"CompileXIB nl.lproj/infoView.xib316088737#316088738#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#58"/Users/seb/Documents/xcode/AmnestyAR/nl.lproj/infoView.xib8615734912#580"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/nl.lproj/infoView.nib /Users/seb/Documents/xcode/AmnestyAR/nl.lproj/infoView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyStringsFile /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s316088736.698323
+e316088737.016918
+r1
+xCopyStringsFile
+x/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF07#2@33"Copy en.lproj/Localizable.strings316088736#316088737#0(0"0(0#0#65"/Users/seb/Documents/xcode/AmnestyAR/en.lproj/Localizable.strings8615573536#483"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/en.lproj0#
+
+CCopyStringsFile /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/fr.lproj/Localizable.strings fr.lproj/Localizable.strings
+s316088737.017013
+e316088737.074586
+r1
+xCopyStringsFile
+x/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/fr.lproj/Localizable.strings
+xfr.lproj/Localizable.strings
+lSLF07#2@33"Copy fr.lproj/Localizable.strings316088737#316088737#0(0"0(0#0#65"/Users/seb/Documents/xcode/AmnestyAR/fr.lproj/Localizable.strings8608490368#483"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary fr.lproj/Localizable.strings --outdir /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/fr.lproj0#
+
+CCopyStringsFile /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/nl.lproj/Localizable.strings nl.lproj/Localizable.strings
+s316088737.074655
+e316088737.125656
+r1
+xCopyStringsFile
+x/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/nl.lproj/Localizable.strings
+xnl.lproj/Localizable.strings
+lSLF07#2@33"Copy nl.lproj/Localizable.strings316088737#316088737#0(0"0(0#0#65"/Users/seb/Documents/xcode/AmnestyAR/nl.lproj/Localizable.strings8612793280#483"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary nl.lproj/Localizable.strings --outdir /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/nl.lproj0#
+
+CCpResource "build/Debug-iphonesimulator/AmnestyAR.app/TradeGotCond Bitmapped Fonts" "TradeGotCond Bitmapped Fonts"
+s316088737.125741
+e316088737.132262
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AmnestyAR.app/TradeGotCond Bitmapped Fonts
+xTradeGotCond Bitmapped Fonts
+lSLF07#2@33"Copy TradeGotCond Bitmapped Fonts316088737#316088737#0(0"0(0#0#65"/Users/seb/Documents/xcode/AmnestyAR/TradeGotCond Bitmapped Fonts8616279648#484"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/seb/Documents/xcode/AmnestyAR/TradeGotCond Bitmapped Fonts" /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app0#
+
+CCpResource build/Debug-iphonesimulator/ARTest.app/scanbutton.png scanbutton.png
+s307728811.398186
+e307728811.482778
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ARTest.app/scanbutton.png
+xscanbutton.png
+lSLF07#2@19"Copy scanbutton.png307728811#307728811#0(0"0(0#0#48"/Users/seb/Documents/xcode/ARTest/scanbutton.png8603798464#442"    cd /Users/seb/Documents/xcode/ARTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/seb/Documents/xcode/ARTest/scanbutton.png /Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app0#
+
+CCpResource build/Debug-iphonesimulator/AmnestyAR.app/Default.png Default.png
+s316088736.503075
+e316088736.696263
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AmnestyAR.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png316088736#316088736#0(0"0(0#0#48"/Users/seb/Documents/xcode/AmnestyAR/Default.png8608613312#465"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/seb/Documents/xcode/AmnestyAR/Default.png /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app0#
+
+CCpResource build/Debug-iphonesimulator/AmnestyAR.app/TradeGotBolConTwe TradeGotBolConTwe
+s316088737.126455
+e316088737.131937
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AmnestyAR.app/TradeGotBolConTwe
+xTradeGotBolConTwe
+lSLF07#2@22"Copy TradeGotBolConTwe316088737#316088737#0(0"0(0#0#54"/Users/seb/Documents/xcode/AmnestyAR/TradeGotBolConTwe8616023360#471"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/seb/Documents/xcode/AmnestyAR/TradeGotBolConTwe /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app0#
+
+CCpResource build/Debug-iphonesimulator/AmnestyAR.app/TradeGotBolConTweObl TradeGotBolConTweObl
+s316088737.127031
+e316088737.137728
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AmnestyAR.app/TradeGotBolConTweObl
+xTradeGotBolConTweObl
+lSLF07#2@25"Copy TradeGotBolConTweObl316088737#316088737#0(0"0(0#0#57"/Users/seb/Documents/xcode/AmnestyAR/TradeGotBolConTweObl8615920672#474"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/seb/Documents/xcode/AmnestyAR/TradeGotBolConTweObl /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app0#
+
+CCpResource build/Debug-iphonesimulator/AmnestyAR.app/TradeGotConEig TradeGotConEig
+s316088737.127690
+e316088737.141243
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AmnestyAR.app/TradeGotConEig
+xTradeGotConEig
+lSLF07#2@19"Copy TradeGotConEig316088737#316088737#0(0"0(0#0#51"/Users/seb/Documents/xcode/AmnestyAR/TradeGotConEig8615731360#468"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/seb/Documents/xcode/AmnestyAR/TradeGotConEig /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app0#
+
+CCpResource build/Debug-iphonesimulator/AmnestyAR.app/TradeGotConEigObl TradeGotConEigObl
+s316088737.128282
+e316088737.150862
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AmnestyAR.app/TradeGotConEigObl
+xTradeGotConEigObl
+lSLF07#2@22"Copy TradeGotConEigObl316088737#316088737#0(0"0(0#0#54"/Users/seb/Documents/xcode/AmnestyAR/TradeGotConEigObl8615561920#471"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/seb/Documents/xcode/AmnestyAR/TradeGotConEigObl /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app0#
+
+CCpResource build/Debug-iphonesimulator/AmnestyAR.app/amnesty_black_button.png amnesty_black_button.png
+s316088736.500827
+e316088736.697359
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AmnestyAR.app/amnesty_black_button.png
+xamnesty_black_button.png
+lSLF07#2@29"Copy amnesty_black_button.png316088736#316088736#0(0"0(0#0#61"/Users/seb/Documents/xcode/AmnestyAR/amnesty_black_button.png8611508416#478"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/seb/Documents/xcode/AmnestyAR/amnesty_black_button.png /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app0#
+
+CCpResource build/Debug-iphonesimulator/AmnestyAR.app/background-amnesty.png background-amnesty.png
+s316088736.501564
+e316088736.697723
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AmnestyAR.app/background-amnesty.png
+xbackground-amnesty.png
+lSLF07#2@27"Copy background-amnesty.png316088736#316088736#0(0"0(0#0#59"/Users/seb/Documents/xcode/AmnestyAR/background-amnesty.png8612800160#476"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/seb/Documents/xcode/AmnestyAR/background-amnesty.png /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app0#
+
+CCpResource build/Debug-iphonesimulator/AmnestyAR.app/buille_jaune.png buille_jaune.png
+s316088736.502344
+e316088736.697193
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AmnestyAR.app/buille_jaune.png
+xbuille_jaune.png
+lSLF07#2@21"Copy buille_jaune.png316088736#316088736#0(0"0(0#0#53"/Users/seb/Documents/xcode/AmnestyAR/buille_jaune.png8611545728#470"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/seb/Documents/xcode/AmnestyAR/buille_jaune.png /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app0#
+
+CCpResource build/Debug-iphonesimulator/AmnestyAR.app/bulle_blanc.png bulle_blanc.png
+s316088736.499353
+e316088736.698239
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AmnestyAR.app/bulle_blanc.png
+xbulle_blanc.png
+lSLF07#2@20"Copy bulle_blanc.png316088736#316088736#0(0"0(0#0#52"/Users/seb/Documents/xcode/AmnestyAR/bulle_blanc.png8615837376#469"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/seb/Documents/xcode/AmnestyAR/bulle_blanc.png /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app0#
+
+CCpResource build/Debug-iphonesimulator/AmnestyAR.app/bulle_noir.png bulle_noir.png
+s316088736.504404
+e316088736.694957
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AmnestyAR.app/bulle_noir.png
+xbulle_noir.png
+lSLF07#2@19"Copy bulle_noir.png316088736#316088736#0(0"0(0#0#51"/Users/seb/Documents/xcode/AmnestyAR/bulle_noir.png8614827904#468"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/seb/Documents/xcode/AmnestyAR/bulle_noir.png /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app0#
+
+CCpResource build/Debug-iphonesimulator/AmnestyAR.app/icone.png icone.png
+s316088736.503769
+e316088736.697888
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AmnestyAR.app/icone.png
+xicone.png
+lSLF07#2@14"Copy icone.png316088736#316088736#0(0"0(0#0#46"/Users/seb/Documents/xcode/AmnestyAR/icone.png8615668864#463"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/seb/Documents/xcode/AmnestyAR/icone.png /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app0#
+
+CCpResource build/Debug-iphonesimulator/AmnestyAR.app/scanbutton.png scanbutton.png
+s316088736.498333
+e316088736.695626
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AmnestyAR.app/scanbutton.png
+xscanbutton.png
+lSLF07#2@19"Copy scanbutton.png316088736#316088736#0(0"0(0#0#51"/Users/seb/Documents/xcode/AmnestyAR/scanbutton.png8615969056#468"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/seb/Documents/xcode/AmnestyAR/scanbutton.png /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app0#
+
+CCpResource build/Debug-iphonesimulator/AmnestyAR.app/test.xml test.xml
+s316088736.500089
+e316088736.696834
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AmnestyAR.app/test.xml
+xtest.xml
+lSLF07#2@13"Copy test.xml316088736#316088736#0(0"0(0#0#45"/Users/seb/Documents/xcode/AmnestyAR/test.xml8615428832#462"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/seb/Documents/xcode/AmnestyAR/test.xml /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app0#
+
+CGenerateDSYMFile /Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app.dSYM /Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/ARTest
+s307728844.410234
+e307728844.470648
+r1
+xGenerateDSYMFile
+x/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app.dSYM
+x/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/ARTest
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/ARTest.app.dSYM build/Debug-iphonesimulator/ARTest.app/ARTest307728844#307728844#0(0"0(0#0#79"/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/ARTest8606338624#365"    cd /Users/seb/Documents/xcode/ARTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/ARTest -o /Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app.dSYM0#
+
+CGenerateDSYMFile /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app.dSYM /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/AmnestyAR
+r0
+
+CLd /Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/ARTest normal i386
+s307728844.329960
+e307728844.409947
+r1
+xLd
+x/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/ARTest
+xnormal
+xi386
+lSLF07#2@84"Link /Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/ARTest307728844#307728844#0(0"0(0#0#0"8604498720#938"    cd /Users/seb/Documents/xcode/ARTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator -F/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator -filelist /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/Objects-normal/i386/ARTest.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -lz -framework QuartzCore -o /Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/ARTest0#
+
+CLd /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/AmnestyAR normal i386
+r0
+
+CProcessInfoPlistFile /Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/Info.plist ARTest-Info.plist
+s307728807.614772
+e307728807.785690
+r1
+xProcessInfoPlistFile
+x/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/Info.plist
+xARTest-Info.plist
+lSLF07#2@25"Process ARTest-Info.plist307728807#307728807#0(0"0(0#0#51"/Users/seb/Documents/xcode/ARTest/ARTest-Info.plist30681223440564324#461"    cd /Users/seb/Documents/xcode/ARTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ARTest-Info.plist -genpkginfo /Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/Info.plist ARTest-Info.plist
+s316088735.919176
+e316088735.958557
+r1
+xProcessInfoPlistFile
+x/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/Info.plist
+xARTest-Info.plist
+lSLF07#2@25"Process ARTest-Info.plist316088735#316088735#0(0"0(0#0#54"/Users/seb/Documents/xcode/AmnestyAR/ARTest-Info.plist28429445101453416#476"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ARTest-Info.plist -genpkginfo /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app/Info.plist0#
+
+CProcessPCH /var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-cwzbhurgfecceccvusbfawfixznf/ARTest_Prefix.pch.gch ARTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307728811.482940
+e307728814.227062
+r1
+xProcessPCH
+x/var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-cwzbhurgfecceccvusbfawfixznf/ARTest_Prefix.pch.gch
+xARTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile ARTest_Prefix.pch307728811#307728814#0(0"0(0#0#51"/Users/seb/Documents/xcode/ARTest/ARTest_Prefix.pch8606450336#1737"    cd /Users/seb/Documents/xcode/ARTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-generated-files.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-own-target-headers.hmap -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-all-target-headers.hmap -iquote /Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/ARTest-project-headers.hmap -F/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator -I/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/include -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources/i386 -I/Users/seb/Documents/xcode/ARTest/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources -c /Users/seb/Documents/xcode/ARTest/ARTest_Prefix.pch -o /var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-cwzbhurgfecceccvusbfawfixznf/ARTest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-gzgyklstgzsubgecrzdbrhgadahn/ARTest_Prefix.pch.gch ARTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316088738.106684
+e316088739.327611
+r0
+xProcessPCH
+x/var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-gzgyklstgzsubgecrzdbrhgadahn/ARTest_Prefix.pch.gch
+xARTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile ARTest_Prefix.pch316088738#316088739#0(0"0(0#0#54"/Users/seb/Documents/xcode/AmnestyAR/ARTest_Prefix.pch8614193664#1779"    cd /Users/seb/Documents/xcode/AmnestyAR    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/seb/Documents/xcode/AmnestyAR/build/ARTest.build/Debug-iphonesimulator/ARTest.build/AmnestyAR-generated-files.hmap -I/Users/seb/Documents/xcode/AmnestyAR/build/ARTest.build/Debug-iphonesimulator/ARTest.build/AmnestyAR-own-target-headers.hmap -I/Users/seb/Documents/xcode/AmnestyAR/build/ARTest.build/Debug-iphonesimulator/ARTest.build/AmnestyAR-all-target-headers.hmap -iquote /Users/seb/Documents/xcode/AmnestyAR/build/ARTest.build/Debug-iphonesimulator/ARTest.build/AmnestyAR-project-headers.hmap -F/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator -I/Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/include -I/Users/seb/Documents/xcode/AmnestyAR/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources/i386 -I/Users/seb/Documents/xcode/AmnestyAR/build/ARTest.build/Debug-iphonesimulator/ARTest.build/DerivedSources -c /Users/seb/Documents/xcode/AmnestyAR/ARTest_Prefix.pch -o /var/folders/cN/cNb2YeAqGJK255deUHz8gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARTest_Prefix-gzgyklstgzsubgecrzdbrhgadahn/ARTest_Prefix.pch.gch0#
+
+CTouch /Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app
+s307728844.470734
+e307728844.473853
+r1
+xTouch
+x/Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app
+lSLF07#2@78"Touch /Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app307728844#307728844#0(0"0(0#0#0"8606132992#267"    cd /Users/seb/Documents/xcode/ARTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/seb/Documents/xcode/ARTest/build/Debug-iphonesimulator/ARTest.app0#
+
+CTouch /Users/seb/Documents/xcode/AmnestyAR/build/Debug-iphonesimulator/AmnestyAR.app
+r0
+

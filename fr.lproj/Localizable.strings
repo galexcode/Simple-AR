@@ -1,0 +1,13 @@
+/* 
+   Localizable.strings
+   AR
+
+   Created by Sébastien Orban on 25/10/10.
+   Copyright 2010 WiO. All rights reserved.
+ */
+// global
+"langue" = "fr"; 
+"url" = "http://maps.google.be/maps/ms?ie=UTF8&hl=fr&vps=3&jsv=286b&msa=0&output=georss&msid=112438536146663995351.0004936d718cb8b533188";
+"Whatever" = "Titre";
+"gift" = "http://www.amnestyinternational.be/doc/article15633.html";
+"member" = "http://www.amnestyinternational.be/doc/article4460.html";
