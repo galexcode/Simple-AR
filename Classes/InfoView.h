@@ -13,7 +13,7 @@
 	UILabel * description;
 }
 
-@property (nonatomic, retain) IBOutlet UILabel *description;
+@property (nonatomic) IBOutlet UILabel *description;
 
 -(IBAction) memberButton:(id) sender;
 -(IBAction) giftButton:(id) sender;

@@ -28,7 +28,6 @@
 		for (ARCoordinate *coordinate in [locations getLocations]) {
 			ARViewButton * cv = [[ARViewButton alloc] initForCoordinate:coordinate];
 			[overlay addCoordinate:coordinate augmentedView:cv animated:NO];
-			[cv release];
 		}
 	}
 	else {
@@ -37,7 +36,6 @@
 
 	
 	
-	[locations release];
 	
 	// Create a new image picker instance:
 	UIImagePickerController *picker = [[UIImagePickerController alloc] init];
@@ -63,7 +61,7 @@
 }
 
 -(void) reinit {
-	[overlay.locationManager release];
+	//overlay.locationManager;
 	
 	for (ARViewButton *item in overlay.coordinateViews) {
 		[item removeFromSuperview];
@@ -79,7 +77,6 @@
 		for (ARCoordinate *coordinate in [locations getLocations]) {
 			ARViewButton * cv = [[ARViewButton alloc] initForCoordinate:coordinate];
 			[overlay addCoordinate:coordinate augmentedView:cv animated:NO];
-			[cv release];
 		}
 	}
 	else {
@@ -88,7 +85,6 @@
 	
 	[overlay reinit];
 	
-	[locations release];
 }
 
 - (void)didReceiveMemoryWarning {
@@ -104,8 +100,5 @@
 }
 
 
-- (void)dealloc {
-    [super dealloc];
-}
 
 @end

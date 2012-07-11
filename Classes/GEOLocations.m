@@ -26,9 +26,9 @@
 	CLLocation		*tempLocation;
 	// NSLocalizedString(@"url", nil)
 	NSLog(@"%@", NSLocalizedString(@"url", nil));
-	tbxml = [[TBXML tbxmlWithURL:[NSURL URLWithString:NSLocalizedString(@"url", nil)]] retain];
+	tbxml = [TBXML tbxmlWithURL:[NSURL URLWithString:NSLocalizedString(@"url", nil)]];
 	if (!tbxml.rootXMLElement) {
-		tbxml = [[TBXML tbxmlWithXMLFile:@"test.xml"] retain];
+		tbxml = [TBXML tbxmlWithXMLFile:@"test.xml"];
 	}
 	TBXMLElement * root = tbxml.rootXMLElement;
 	if (root) {		
@@ -48,12 +48,10 @@
 														 locationTitle:title];
 				tempCoordinate.subtitle = stringToClean;
 				[locationArray addObject:tempCoordinate];
-				[tempLocation release];
 				item = [TBXML nextSiblingNamed:@"item" searchFromElement:item];
 			}
 		}
 	}
-	[tbxml release];
 	
 }
 
@@ -62,10 +60,6 @@
 	return locationArray;
 }
 
-- (void)dealloc {	
-    [locationArray release];
-    [super dealloc];
-}
 
 
 @end

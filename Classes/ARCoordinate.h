@@ -50,10 +50,11 @@
 
 + (ARCoordinate *)coordinateWithRadialDistance:(double)newRadialDistance inclination:(double)newInclination azimuth:(double)newAzimuth;
 
-@property (nonatomic, retain)	NSString *title;
-@property (nonatomic, retain)		NSString *subtitle;
+@property (nonatomic)	NSString *title;
+@property (nonatomic)		NSString *subtitle;
 @property (nonatomic) double	radialDistance;
 @property (nonatomic) double	inclination;
 @property (nonatomic) double	azimuth;
+
 
 @end

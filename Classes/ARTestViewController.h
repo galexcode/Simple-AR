@@ -24,7 +24,7 @@
 	OverlayView	* overlay;
 }
 
-@property (nonatomic, retain) OverlayView *overlay;
+@property (nonatomic) OverlayView *overlay;
 
 -(void) reinit;
 

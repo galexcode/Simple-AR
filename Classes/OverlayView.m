@@ -24,7 +24,6 @@
 @synthesize centerLocation;
 @synthesize coordinates;
 @synthesize coordinateViews;
-@synthesize debugMode;
 @synthesize currentOrientation;
 @synthesize degreeRange;
 @synthesize noInfo;
@@ -57,7 +56,6 @@
 		CLLocation *newCenter = [[CLLocation alloc] initWithLatitude:37.41711 longitude:-122.02528];
 		
 		[self setCenterLocation: newCenter];
-		[newCenter release];
 		
 		[[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(deviceOrientationDidChange:) name: UIDeviceOrientationDidChangeNotification object:nil];
 		[[UIDevice currentDevice] beginGeneratingDeviceOrientationNotifications];	
@@ -89,7 +87,6 @@
 	CLLocation *newCenter = [[CLLocation alloc] initWithLatitude:37.41711 longitude:-122.02528];
 
 	[self setCenterLocation: newCenter];
-	[newCenter release];
 	
 	[self startListening];
 	
@@ -210,8 +207,7 @@
 }
 
 - (void)setCenterLocation:(CLLocation *)newLocation {
-	[centerLocation release];
-	centerLocation = [newLocation retain];
+	centerLocation = newLocation;
 	int index = 0;
 	
 	for (ARGeoCoordinate *geoLocation in [self coordinates]) {
@@ -464,6 +460,9 @@
 	else 
 		[debugView removeFromSuperview];
 }
+- (BOOL) debugMode {
+    return debugMode;
+}
 
 - (void)drawRect:(CGRect)rect {
     // Drawing code
@@ -472,12 +471,6 @@
 
 - (void)dealloc {
 	[[UIDevice currentDevice] endGeneratingDeviceOrientationNotifications];
-	[locationManager release];
-	[coordinateViews release];
-	[coordinates release];
-	[coordinatesYVal release];
-	[debugView release];
-    [super dealloc];
 }
 
 

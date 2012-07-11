@@ -58,7 +58,6 @@
 
 @property BOOL scaleViewsBasedOnDistance;
 @property BOOL rotateViewsBasedOnPerspective;
-@property BOOL debugMode;
 @property BOOL noInfo;
 
 @property double maximumScaleDistance;
@@ -66,14 +65,14 @@
 @property double maximumRotationAngle;
 @property double degreeRange;
 
-@property (nonatomic, retain) UIAccelerometer	*accelerometerManager;
-@property (nonatomic, retain) CLLocationManager	*locationManager;
-@property (nonatomic, retain) ARCoordinate		*centerCoordinate;
-@property (nonatomic, retain) CLLocation		*centerLocation;
+@property (nonatomic) UIAccelerometer	*accelerometerManager;
+@property (nonatomic) CLLocationManager	*locationManager;
+@property (nonatomic) ARCoordinate		*centerCoordinate;
+@property (nonatomic) CLLocation		*centerLocation;
 @property UIDeviceOrientation	currentOrientation;
-@property (nonatomic, retain) NSMutableArray *coordinates;
-@property (nonatomic, retain) NSMutableArray *coordinateViews;
-@property (nonatomic, retain) NSMutableArray *coordinatesYVal;
+@property (nonatomic) NSMutableArray *coordinates;
+@property (nonatomic) NSMutableArray *coordinateViews;
+@property (nonatomic) NSMutableArray *coordinatesYVal;
 
 
 - (void) setupDebugPostion;
@@ -88,6 +87,10 @@
 - (void)removeCoordinate:(ARCoordinate *)coordinate;
 - (void)removeCoordinate:(ARCoordinate *)coordinate animated:(BOOL)animated;
 - (void)removeCoordinates:(NSArray *)coordinateArray;
+
+// getter/setter
+- (void)setDebugMode:(BOOL)flag;
+- (BOOL) debugMode;
 
 @end
 

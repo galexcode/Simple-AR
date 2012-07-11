@@ -71,7 +71,6 @@
 		//[self addSubview:testBtn];
 		[self addSubview:testButton];
 		[self setBackgroundColor:[UIColor clearColor]];
-		[testButton release];
 		//[pointView release];
 	}
 	
@@ -88,9 +87,6 @@
 }
 
 
-- (void)dealloc {
-    [super dealloc];
-}
 
 
 @end

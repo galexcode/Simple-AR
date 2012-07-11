@@ -46,7 +46,7 @@
 	[self setInclination: angle];
 	[self setAzimuth: [self angleFromCoordinate:[origin coordinate] toCoordinate:[[self geoLocation] coordinate]]];
 	
-	NSLog(@"distance is %d, angle is %d, azimuth is %d",baseDistance,angle,[self azimuth]);
+	NSLog(@"distance is %f, angle is %f, azimuth is %f",baseDistance,angle,[self azimuth]);
 }
 
 + (ARGeoCoordinate *)coordinateWithLocation:(CLLocation *)location locationTitle:(NSString *) titleOfLocation {
@@ -55,7 +55,7 @@
 	[newCoordinate setGeoLocation: location];
 	[newCoordinate setTitle: titleOfLocation];
 	
-	return [newCoordinate autorelease];
+	return newCoordinate;
 }
 
 + (ARGeoCoordinate *)coordinateWithLocation:(CLLocation *)location fromOrigin:(CLLocation *)origin {

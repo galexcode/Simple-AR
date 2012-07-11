@@ -19,9 +19,9 @@
 	UILabel * distanceLabel;
 }
 
-@property (nonatomic, retain) NSString * content;
-@property (nonatomic, retain) NSString * title;
-@property (nonatomic, retain) NSString * distance;
+@property (nonatomic) NSString * content;
+@property (nonatomic) NSString * title;
+@property (nonatomic) NSString * distance;
 
 -(id) initForCoordinate: (ARCoordinate *) coordinate;
 - (void)buttonPressed: (id) sender;
